@@ -65,25 +65,7 @@ Time:                   40, PASS: q = 001111000
  
 ===== Check ADDR_13 =====
 Time:                   42, PASS: q = 000000100
- 
-===== Check WRITE ADDR_0e =====
-Time:                   50, PASS: wr_addr = 0e, wr_data = 100100100, q = 100100100
- 
-===== Check WRITE ADDR_0f =====
-Time:                   56, PASS: wr_addr = 0f, wr_data = 010000001, q = 010000001
- 
-===== Check WRITE ADDR_10 =====
-Time:                   62, PASS: wr_addr = 10, wr_data = 000001001, q = 000001001
- 
-===== Check WRITE ADDR_11 =====
-Time:                   68, PASS: wr_addr = 11, wr_data = 001100011, q = 001100011
- 
-===== Check WRITE ADDR_12 =====
-Time:                   74, PASS: wr_addr = 12, wr_data = 100001101, q = 100001101
- 
-===== Check WRITE ADDR_13 =====
-Time:                   80, PASS: wr_addr = 13, wr_data = 110001101, q = 110001101
- 
+
 ===== Check WRITE ADDR_14 =====
 Time:                   86, PASS: wr_addr = 14, wr_data = 001100101, q = 001100101
  

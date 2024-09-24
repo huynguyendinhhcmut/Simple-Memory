@@ -1,5 +1,5 @@
-# Simple-RAM
-A simple RAM with DEPTH = 128; WIDTH = 9; ADDRESS_RADIX = HEX; DATA_RADIX = BIN.
+# Simple-Memory
+A simple Memory with DEPTH = 128; WIDTH = 9; ADDRESS_RADIX = HEX; DATA_RADIX = BIN.
 
 ![image](https://github.com/user-attachments/assets/9efc573d-59b9-44b0-beb0-0f272c4e8853)
 

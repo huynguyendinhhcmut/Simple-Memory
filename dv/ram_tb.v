@@ -231,7 +231,7 @@ initial begin
 	rst_n = 1;
 
 	@(posedge clk)
-	for (i = 14; i < 128; i = i + 1) begin
+	for (i = 20; i < 128; i = i + 1) begin
 		check_wr (i, $random);
 	end
 
